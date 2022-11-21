@@ -1,0 +1,13 @@
+//import {loginAzureReducer  } from  "../reducers_lib/loginAzureReducer"
+// Import redux e create store
+//const redux = require("redux")
+import {redux} from 'redux';
+
+
+export const loginAzureStore = redux.createStore
+
+//const store = createStore(loginAzureReducer)
+
+
+
+
